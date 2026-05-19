@@ -85,6 +85,7 @@ retail-ai-chatbot/
 │   └── logo.png
 │
 └── README.md
+```
 
 # 👨‍💻 Author
 
