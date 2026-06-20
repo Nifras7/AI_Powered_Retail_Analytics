@@ -1,6 +1,6 @@
 # 🛒 AI-Powered Retail Analytics Chatbot
 
-An enterprise-grade AI Retail Analytics Assistant built using Python, LangChain, OpenAI API, SQLite, and Streamlit.
+An enterprise-grade AI Retail Analytics Assistant built using Python, LangChain, GeminiAI API, SQLite, and Streamlit.
 
 The system enables retail businesses to ask natural language business questions and receive intelligent analytics, SQL-generated insights, KPI reports, and interactive visualizations.
 
@@ -44,7 +44,7 @@ The system enables retail businesses to ask natural language business questions 
 | Python | Backend Development |
 | Streamlit | Frontend UI |
 | LangChain | LLM Orchestration |
-| OpenAI API | AI Processing |
+| Gemini AI API | AI Processing |
 | SQLite | Database |
 | Pandas | Data Processing |
 | Plotly | Data Visualization |
